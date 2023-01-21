@@ -1,0 +1,34 @@
+export const SliderData = [
+  {
+    image:
+    '/sliderSection/slider-img-1.png',
+  },
+  {
+    image:
+    '/sliderSection/slider-img-2.png',
+  },
+  {
+    image:
+    '/sliderSection/slider-img-3.png',
+  },
+  {
+    image:
+    '/sliderSection/slider-img-4.png',
+  },
+  {
+    image:
+    '/sliderSection/slider-img-5.png',
+  },
+  {
+    image:
+    '/sliderSection/slider-img-6.png',
+  },
+  {
+    image:
+    '/sliderSection/slider-img-7.png',
+  },
+  {
+    image:
+    '/sliderSection/slider-img-8.png',
+  },
+];
